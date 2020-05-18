@@ -1,4 +1,4 @@
-# rayDSA
+# raysDSA
 
 ## Stacks - Pancakes, plates and more!
 
